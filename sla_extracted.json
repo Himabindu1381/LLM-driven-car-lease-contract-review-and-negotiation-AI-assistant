@@ -1,0 +1,13 @@
+{
+    "interest_rate_apr": "5%",
+    "lease_term_duration": null,
+    "monthly_payment": null,
+    "down_payment": null,
+    "residual_value": null,
+    "mileage_allowance_and_overage_charges": null,
+    "early_termination_clause": null,
+    "purchase_option_buyout_price": null,
+    "maintenance_responsibilities": null,
+    "warranty_and_insurance_coverage": null,
+    "penalties_or_late_fee_clauses": null
+}

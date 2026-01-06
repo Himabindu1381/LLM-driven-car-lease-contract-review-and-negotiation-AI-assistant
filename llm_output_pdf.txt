@@ -1,0 +1,51 @@
+This document is a "Loan Cum Hypothecation Agreement" between the Borrower(s) and AXIS Bank Ltd.
+
+---
+
+## 1. Short Summary
+
+This is a comprehensive legal agreement detailing the terms and conditions under which AXIS Bank Ltd. grants a loan to the Borrower(s) for the purchase of a Vehicle. The loan is secured by the **hypothecation** (First Exclusive Charge) of the financed Vehicle. The agreement specifies repayment through Equated Monthly Installments (EMI), lists various fees and charges, outlines the Borrower's extensive obligations (including mandatory insurance with the Bank as loss payee), and defines numerous **Events of Default**. Crucially, it grants the Bank powerful rights, including the ability to revise repayment terms, disclose borrower data to Credit Information Companies (CICs), and, upon default, invoke an Irrevocable Power of Attorney to repossess and sell the Vehicle to recover the outstanding dues.
+
+---
+
+## 2. Important Details
+
+### Parties and Scope
+*   **Lender:** AXIS Bank Ltd.
+*   **Borrower:** Person(s) specified in the Schedule, liable jointly and severally (if more than one).
+*   **Purpose:** Loan granted for the purchase of a specific "Vehicle."
+*   **Loan Limits:** Up to the limit specified in the Schedule, with the Bank having full power to renew, reduce, enhance, or withdraw the facility.
+
+### Security and Hypothecation
+*   The Borrower **HYPOTHECATES** the Vehicle to the Bank by way of a **First Exclusive Charge** as security for the repayment of the loan and all associated liabilities.
+*   The Borrower must ensure the Bank's lien is noted on the **Registration Certificate (RC)** and the **Insurance Policy** documents.
+
+### Financial Terms and Repayment
+*   **Repayment Method:** Primarily via Equated Monthly Installment (EMI), comprising principal and interest, calculated on a basis of monthly rests.
+*   **Interest Rate:** Fixed for the entire tenor of the loan, as stipulated in the Schedule.
+*   **Penal Interest:** Applies to all amounts not paid when due, calculated at the Default Interest Rate specified in the Schedule.
+*   **Prepayment:** Partial prepayment is restricted (permitted only once per calendar month, and aggregated not more than twice in a financial year). Foreclosure and part prepayment charges apply (5% of the Principal Outstanding, plus GST, for foreclosure).
+*   **Disbursement:** Usually made via Banker's Payment Order or Demand Draft crossed "A/c Payee only" in the name of the Supplier/Dealer or the previous financier.
+
+### Fees and Charges (Specified amounts are listed in the Schedule section):
+*   Cheque return Charges: Rs. 500/- per cheque return.
+*   Cheque swapping charges: Rs. 500/-.
+*   Loan Cancellation/Re-booking charges: Rs. 2500/-.
+*   Documentation Charges: Rs. 500/-.
+*   All fees and charges are subject to Goods and Services Tax (GST).
+
+### Insurance
+*   The Borrower must maintain comprehensive insurance (including unlimited third-party risk).
+*   The Bank must be designated as the **loss payee/beneficiary** under the policy.
+
+### Default and Recovery
+*   **Events of Default** include non-payment of EMI, breach of terms, incorrect representations, insolvency, destruction, or unauthorized sale/alienation of the Vehicle.
+*   **Consequence of Default:** The Bank can declare all outstanding sums immediately due and is entitled to **take physical possession of the Vehicle** (repossession).
+*   **Repossession Procedure:** The Bank shall endeavor to give 7 days' notice to repay before repossession, but possession may be taken without notice in cases of emergency or if the borrower's whereabouts are unavailable.
+*   **Sale of Vehicle:** After repossession, the Bank sends a final 7-day notice before being entitled to sell the vehicle by public or private auction or private treaty. The Borrower is liable for any deficiency remaining after the sale proceeds are applied.
+
+### Legal Rights and Obligations
+*   **Power of Attorney (PoA):** The Borrower grants the Bank an **irrevocable** PoA, authorizing the Bank to execute documents, take possession, sell the vehicle, and manage the registration/insurance process, particularly in case of default.
+*   **Assignment:** The Bank has the right to sell or transfer (assign/securitize) the loan and its obligations without reference to the Borrower.
+*   **Dispute Resolution:** All disputes are subject to **arbitration** under the Arbitration and Conciliation Act, 1996, with a sole arbitrator nominated by the Bank. Proceedings are specified to be held in Mumbai/Delhi/Chennai/Kolkata.
+*   **CIC Disclosure:** The Borrower consents to the disclosure of their information, data, and any record of default to Credit Information Bureau (India) Limited (CIBIL/CIC) and Information Utility (IU).
